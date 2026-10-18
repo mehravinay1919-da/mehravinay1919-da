@@ -2,9 +2,8 @@
 
 ### Aspiring Data Analyst | Business Analytics | SQL | Power BI | Excel
 
-I enjoy turning raw data into meaningful insights that help businesses understand performance, identify opportunities, and make better decisions.
-
-My focus is on **data analysis, business intelligence, and data-driven problem-solving**. I have built hands-on projects across e-commerce, banking, customer risk, restaurant sales, and data cleaning using SQL, Power BI, Excel, and Power Query.
+I use SQL, Power BI, and Excel to analyse business data, track performance, and uncover actionable insights.
+My portfolio includes hands-on projects in **e-commerce**, **banking**, **customer risk, sales analytics**, and **data cleaning**, demonstrating my approach to answering business questions through data.
 
 ##  Skills & Tools
 
