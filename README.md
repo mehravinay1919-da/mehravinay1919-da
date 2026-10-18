@@ -7,12 +7,12 @@ My portfolio includes hands-on projects in **e-commerce**, **banking**, **custom
 
 ##  Skills & Tools
 
-- **Data Analysis:** Data Cleaning, Exploratory Data Analysis, KPI Analysis, Business Insights
-- **SQL:** Joins, CTEs, Subqueries, Window Functions, Aggregations
-- **Power BI:** Interactive Dashboards, DAX, Data Modelling, Time Intelligence
-- **Excel:** Pivot Tables, Lookup Functions, Data Analysis
-- **Power Query:** Data Transformation, Cleaning, Standardisation
-- **Python:** Building and developing skills for data analysis
+**Data Analysis**: Data Cleaning, Exploratory Data Analysis, KPI Analysis, Business Insights
+**SQL**: Joins, CTEs, Subqueries, Window Functions, Aggregations
+**Power BI**: Interactive Dashboards, DAX, Data Modeling, Time Intelligence
+**Excel**: Pivot Tables, Lookup Functions, Data Analysis
+**Power Query**: Data Transformation, Data Cleaning, Standardization
+**Python**: Currently developing skills in data analysis
 
 ##  Featured Projects
 
