@@ -39,6 +39,6 @@ I am seeking entry-level opportunities in **Data Analytics, Business Analytics, 
 ##  Let's Connect
 
 - **LinkedIn:** www.linkedin.com/in/vinaymehra19
-- **GitHub:** [View my projects](https://github.com/mehravinay1919-da)
+- **GitHub:** https://github.com/mehravinay1919-da?tab=repositories
 
 I'm always open to learning, collaborating, and exploring opportunities to turn data into actionable business insights.
